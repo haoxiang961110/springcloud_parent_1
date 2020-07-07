@@ -1,0 +1,5 @@
+com\itheima\springcloud\user\service\impl\UserServiceImpl.class
+com\itheima\springcloud\user\service\UserService.class
+com\itheima\springcloud\user\mapper\UserMapper.class
+com\itheima\springcloud\user\controller\UserController.class
+com\itheima\springcloud\user\UserApplication.class

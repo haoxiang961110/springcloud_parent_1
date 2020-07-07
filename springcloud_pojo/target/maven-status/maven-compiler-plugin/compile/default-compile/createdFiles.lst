@@ -1,0 +1,3 @@
+com\itheima\springcloud\feign\OrderFeign.class
+com\itheima\springcloud\pojo\Order.class
+com\itheima\springcloud\pojo\User.class
